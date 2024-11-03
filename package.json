@@ -10,5 +10,8 @@
   "description": "",
   "dependencies": {
     "web-push": "^3.6.7"
+  },
+  "engines": {
+    "node": "16.x"
   }
 }
