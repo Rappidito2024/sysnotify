@@ -1,15 +1,4 @@
 {
-    "version": 2,
-    "functions": {
-      "api/sendNotification.js": {
-        "runtime": "nodejs16.x"
-      }
-    },
-    "routes": [
-      {
-        "src": "/api/sendNotification",
-        "dest": "/api/sendNotification.js"
-      }
-    ]
+    "version": 2
   }
   
